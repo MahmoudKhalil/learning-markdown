@@ -16,6 +16,8 @@ Project is created with:
 * Lorem version: 0.0.0
 * Ipsum version: 0.0.0
 
+![Markdown Language Logo](images/markdown-logo.png)
+
 ## Edit
 ```
 $ cd learning-markdown
