@@ -17,5 +17,7 @@ Project is created with:
 * Ipsum version: 0.0.0
 
 ## Edit
-cd learning-markdown
-vim README.md
+```
+$ cd learning-markdown
+$ vim README.md
+```
